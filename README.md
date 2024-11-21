@@ -37,7 +37,7 @@ Air Mouse is a human interface device leveraging a computer's camera to capture 
    ```bash
    git clone https://github.com/Kaviyarsan2004/Air_mouse.git
    cd Air_mouse
-2. Install dependencies:
+2. To Install dependencies:
     ```bash
     pip install -r requirements.txt
 3. Install client dependencies, run the client:
